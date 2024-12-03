@@ -1,0 +1,7 @@
+start.bat
+window_dump.xml
+supp_scripts
+.idea
+__pycache__
+adb_data/patrons/debug.log
+/venv
